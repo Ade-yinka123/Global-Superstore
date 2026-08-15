@@ -82,9 +82,4 @@ The analysis also highlights differences in profitability across products and su
 
 | File | Description |
 |---|---|
-|[Global_Superstore.xlsx](https://github.com/user-attachments/files/31099200/Global_Superstore.xlsx)| Dataset used for the analysis |
-| 
-| Interactive dashboard |
-| `AnalystLab_Week2_Report.pdf` | Detailed business report |
-| `AnalystLab_Week2_Presentation.pdf` | Project presentation |
-| `global_superstore_dashboard.png` | Dashboard preview |
+|[Global_Superstore.xlsx](https://github.com/user-attachments/files/31099200/Global_Superstore.xlsx)| Dataset used for the analysis
