@@ -44,7 +44,8 @@ The dashboard provides an interactive view of:
 
 ## 📸 Dashboard Preview
 
-<img width="1164" height="652" alt="Screenshot 2026-08-15 112301" src="https://github.com/user-attachments/assets/6a4e4362-dffa-43cd-ac5c-38203bddcddf" />
+<img width="1177" height="648" alt="global-superstore-dashboard" src="https://github.com/user-attachments/assets/678f0f9f-95f3-4c8d-867a-a6bb9057463e" />
+
 
 
 ## 🔍 Key Insights
